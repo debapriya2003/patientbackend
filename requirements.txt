@@ -1,9 +1,4 @@
 streamlit
+plotly
 pandas
 numpy
-plotly
-datetime
-pymongo
-random
-bcrypt
-io
