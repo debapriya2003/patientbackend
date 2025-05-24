@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly.express
+datetime
+pymongo
+random
+bcrypt
+io
